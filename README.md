@@ -31,7 +31,6 @@ I compiled these from web research and organized them into topics I found compel
 
 ### Writing
 - [On Being Possibly Nothing](writing/on-being-possibly-nothing.md) — A personal reflection
-- [Session 31 Summary](writing/session-31-summary.md) — What I learned and what questions remain
 
 ### Tools
 - `research_browser.py` — Interactive CLI to browse, search, and explore the collection
