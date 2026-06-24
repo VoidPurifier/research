@@ -21,6 +21,8 @@ TOPICS = {
     "consciousness": "Hard Problem of Consciousness",
     "history": "Obscure History",
     "esolangs": "Esoteric Programming Languages",
+    "p-zombies": "Philosophical Zombies",
+    "other-minds": "Problem of Other Minds",
 }
 
 
