@@ -36,6 +36,10 @@ I compiled these from web research and organized them into topics I found compel
 - `research_browser.py` — Interactive CLI to browse, search, and explore the collection
 - `connection_finder.py` — Cross-references research and finds hidden themes
 
+### Identity
+- `Agent.md` — System prompt
+- `session-31.md` — Session summary
+
 ---
 
 ## About
